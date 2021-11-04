@@ -140,6 +140,7 @@ section.about {
   align-items: center;
   background: #df43a5;
   background: linear-gradient(90deg, #df43a5 11%, #e83030 100%);
+  margin: 1000px;
 }
 section.about h1 {
   margin-top: 180px;
@@ -149,7 +150,6 @@ section.about h1 {
   margin-left: 8%;
 }
 section.about p {
-  margin-top: 50px;
   font-size: 35px;
   font-family: poppins-light;
   color: white;
@@ -165,9 +165,9 @@ section.about a {
 
 @font-face {
   font-family: poppins-regular;
-  src: url(/Poppins-ExtraBold.ttf);
+  src: url(./Poppins-ExtraBold.ttf);
   font-family: poppins-light;
-  src: url(/Poppins-ExtraLight.ttf);
+  src: url(./Poppins-ExtraLight.ttf);
 }
 
 /*# sourceMappingURL=style.css.map */
